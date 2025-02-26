@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://mpsajulga.github.io/dongkhaehaughty-blog/"
 languageCode = 'en-us'
 title = "Let's Tilt  Windmills"
 theme = 'color-your-world'
