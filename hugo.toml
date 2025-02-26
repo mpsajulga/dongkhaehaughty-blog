@@ -1,0 +1,10 @@
+baseURL = "http://localhost:1313/"
+languageCode = 'en-us'
+title = "Let's Tilt  Windmills"
+theme = 'color-your-world'
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
