@@ -6,6 +6,8 @@ categories = ["Humor", "Language"]
 tags = ["Tagalog", "Wordplay", "Reddit"]
 +++
 
+{{< buymeacoffee >}}
+
 On a Reddit post on **r/Tagalog** (Vocabulary/Terminology) by user **u/montanoj88**:
 
 > *"What is the equivalent word for "jakol" for women?"*  
@@ -17,3 +19,5 @@ I replied:
 **Tats**  
 
 *"I'll touch myself nalang."*
+
+{{< buymeacoffee >}}

@@ -4,6 +4,8 @@ date = 2025-02-26T14:18:58+08:00
 draft = false
 +++
 
+{{< buymeacoffee >}}
+
 ---
 
 # An Excerpt from My Myspace and Facebook "About Me" Section  
@@ -200,3 +202,5 @@ I'm a tool, and I approve of this message.
 If you are reading this, then this warning is for you. Every word you read of this useless fine print is another second off your life. Don't you have other things to do? Is your life so empty that you honestly can't think of a better way to spend these moments? Or are you so impressed with authority that you give respect and credence to all who claim it? Do you read everything you're supposed to read? Do you think everything you're supposed to think? Buy what you're told you should want? Get out of your apartment. Meet a member of the opposite sex. Stop the excessive shopping and masturbation. Quit your job. Start a fight. Prove you're alive. If you don't claim your humanity, you will become a statistic. You have been warned ..... Tyler.  
 
 ---
+
+{{< buymeacoffee >}}

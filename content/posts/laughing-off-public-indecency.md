@@ -4,6 +4,8 @@ date = 2025-02-26T15:38:30+08:00
 draft = false
 +++
 
+{{< buymeacoffee >}}
+
 ## Trigger Warning: Slightly Too Much Info Story Ahead
 
 I’ve got a story that’s been sitting on the back burner lately. My cousin, **Kuya Ken**, invited me over to **Sheraton Cebu Mactan Resort**. He called me when I was just in the middle of my **immediate resignation at Amazon Cebu**. Since I had nothing going on at the time after resigning, I promptly got an **Angkas** to Mactan.  
@@ -87,3 +89,4 @@ Would you have given your cousin a **heads-up**, or just **kept it moving like m
 
 (*Assuming that you would've also looked into the other guy's business.*)
 
+{{< buymeacoffee >}}
