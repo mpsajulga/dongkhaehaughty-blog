@@ -5,6 +5,25 @@
     <link>https://dongkhaehaughty.xyz/categories/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dongkhaehaughty.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2025 11:43:37 +0800</lastBuildDate><atom:link href="https://dongkhaehaughty.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Humor</title>
+        <link>https://dongkhaehaughty.xyz/categories/humor/</link>
+        <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
+        
+        <guid>https://dongkhaehaughty.xyz/categories/humor/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Language</title>
+        <link>https://dongkhaehaughty.xyz/categories/language/</link>
+        <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
+        
+        <guid>https://dongkhaehaughty.xyz/categories/language/</guid>
+        <description></description>
+      </item>
+    
   </channel>
 </rss>
