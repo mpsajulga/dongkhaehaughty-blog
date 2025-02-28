@@ -8,6 +8,3 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 2
-
-[params]
-  accentColor = "#A1BCA9"

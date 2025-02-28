@@ -1,0 +1,9 @@
+[submodule "themes/color-your-world"]
+	path = themes/color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "themes/not-much"]
+	path = themes/not-much
+	url = https://github.com/imgios/not-much.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
