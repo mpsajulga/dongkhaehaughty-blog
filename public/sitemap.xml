@@ -1,90 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  
-    <url>
-      <loc>https://dongkhaehaughty.xyz/posts/tats-by-tats/</loc>
-      
-      
-        <lastmod>2025-02-27T11:43:37+08:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://dongkhaehaughty.xyz/posts/late-adhd-diagnosis/</loc>
-      
-      
-        <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://dongkhaehaughty.xyz/about/</loc>
-      
-      
-        <lastmod>2025-02-26T16:14:20+08:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://dongkhaehaughty.xyz/posts/laughing-off-public-indecency/</loc>
-      
-      
-        <lastmod>2025-02-26T15:38:30+08:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://dongkhaehaughty.xyz/posts/the-main-character/</loc>
-      
-      
-        <lastmod>2025-02-26T14:18:58+08:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
+  <url>
+    <loc>https://dongkhaehaughty.xyz/categories/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/categories/humor/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/categories/language/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/posts/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/reddit/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/tagalog/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/posts/tats-by-tats/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/wordplay/</loc>
+    <lastmod>2025-02-27T11:43:37+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/adhd/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/categories/health/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/posts/late-adhd-diagnosis/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/mental-health/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/tags/personal-experience/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/about/</loc>
+    <lastmod>2025-02-26T16:14:20+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/posts/laughing-off-public-indecency/</loc>
+    <lastmod>2025-02-26T15:38:30+08:00</lastmod>
+  </url><url>
+    <loc>https://dongkhaehaughty.xyz/posts/the-main-character/</loc>
+    <lastmod>2025-02-26T14:18:58+08:00</lastmod>
+  </url>
 </urlset>
