@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Let&#39;s Tilt  Windmills</title>
+    <title>Tags on Let&#39;s Tilt  Windmills</title>
     <link>https://dongkhaehaughty.xyz/tags/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tags on Let&#39;s Tilt  Windmills</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 11:43:37 +0800</lastBuildDate><atom:link href="https://dongkhaehaughty.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Reddit</title>
-        <link>https://dongkhaehaughty.xyz/tags/reddit/</link>
-        <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/reddit/</guid>
-        <description></description>
-      </item>
-    
-      <item>
-        <title>Tagalog</title>
-        <link>https://dongkhaehaughty.xyz/tags/tagalog/</link>
-        <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/tagalog/</guid>
-        <description></description>
-      </item>
-    
-      <item>
-        <title>Wordplay</title>
-        <link>https://dongkhaehaughty.xyz/tags/wordplay/</link>
-        <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/wordplay/</guid>
-        <description></description>
-      </item>
-    
-      <item>
-        <title>ADHD</title>
-        <link>https://dongkhaehaughty.xyz/tags/adhd/</link>
-        <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/adhd/</guid>
-        <description></description>
-      </item>
-    
-      <item>
-        <title>Mental Health</title>
-        <link>https://dongkhaehaughty.xyz/tags/mental-health/</link>
-        <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/mental-health/</guid>
-        <description></description>
-      </item>
-    
-      <item>
-        <title>Personal Experience</title>
-        <link>https://dongkhaehaughty.xyz/tags/personal-experience/</link>
-        <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongkhaehaughty.xyz/tags/personal-experience/</guid>
-        <description></description>
-      </item>
-    
+    <lastBuildDate>Thu, 27 Feb 2025 11:43:37 +0800</lastBuildDate>
+    <atom:link href="https://dongkhaehaughty.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reddit</title>
+      <link>https://dongkhaehaughty.xyz/tags/reddit/</link>
+      <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/reddit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tagalog</title>
+      <link>https://dongkhaehaughty.xyz/tags/tagalog/</link>
+      <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/tagalog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordplay</title>
+      <link>https://dongkhaehaughty.xyz/tags/wordplay/</link>
+      <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/wordplay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ADHD</title>
+      <link>https://dongkhaehaughty.xyz/tags/adhd/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/adhd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://dongkhaehaughty.xyz/tags/mental-health/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Experience</title>
+      <link>https://dongkhaehaughty.xyz/tags/personal-experience/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dongkhaehaughty.xyz/tags/personal-experience/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
