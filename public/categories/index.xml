@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Let&#39;s Tilt  Windmills</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://dongkhaehaughty.xyz/categories/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 11:43:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 11:43:37 +0800</lastBuildDate><atom:link href="https://dongkhaehaughty.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Humor</title>
-        <link>http://localhost:1313/categories/humor/</link>
+        <link>https://dongkhaehaughty.xyz/categories/humor/</link>
         <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/humor/</guid>
+        <guid>https://dongkhaehaughty.xyz/categories/humor/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Language</title>
-        <link>http://localhost:1313/categories/language/</link>
+        <link>https://dongkhaehaughty.xyz/categories/language/</link>
         <pubDate>Thu, 27 Feb 2025 11:43:37 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/language/</guid>
+        <guid>https://dongkhaehaughty.xyz/categories/language/</guid>
         <description></description>
       </item>
     
       <item>
         <title>Health</title>
-        <link>http://localhost:1313/categories/health/</link>
+        <link>https://dongkhaehaughty.xyz/categories/health/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/health/</guid>
+        <guid>https://dongkhaehaughty.xyz/categories/health/</guid>
         <description></description>
       </item>
     
