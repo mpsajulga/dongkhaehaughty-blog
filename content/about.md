@@ -6,10 +6,15 @@ draft = false
 
 # About Me
 
-Hi, I'm Mychal Sajulga  
-I'm INFJ  
-I've got ADD  
-and I'm a Gemini. 
+Hi, I'm Mychal Sajulga
+Neurospicy  
+INFJ / INTJ depending on the mood  
+Inattentive type ADHD ...  Old School ADD  
+
+Gemini.  
+
+This is the part where you say,  
+"Oh, that's explains it. He's a Gemini." 
 
 This site will be as random  
 as my hyperfixations.
